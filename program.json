@@ -1,0 +1,10 @@
+{
+  "id": "Muse-BiAmp-IP-Interface",
+  "name": "Muse-BiAmp-IP-Interface",
+  "description": "description",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "BiAmpIPInterface.py",
+  "envvars": {}
+}

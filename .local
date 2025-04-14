@@ -1,0 +1,147 @@
+{
+    "deploys": [
+        {
+            "date": "2025-04-14T19:35:54.517Z",
+            "program": "Muse-BiAmp-IP-Interface",
+            "controller": "10.184.42.25",
+            "files": [
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\COMMIT_EDITMSG",
+                    "md5": "d778d8b1f42d0dd1bb284e5ca9549187"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\config",
+                    "md5": "fec22a73e229a4d4d42a4e8bf1c2287f"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\description",
+                    "md5": "a0a7c3fff21f2aea3cfa1d0316dd816c"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\FETCH_HEAD",
+                    "md5": "e66b0a1149bd702463b58668babff88c"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\HEAD",
+                    "md5": "cf7dd3ce51958c5f13fece957cc417fb"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\applypatch-msg.sample",
+                    "md5": "ce562e08d8098926a3862fc6e7905199"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\commit-msg.sample",
+                    "md5": "579a3c1e12a1e74a98169175fb913012"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\fsmonitor-watchman.sample",
+                    "md5": "a0b2633a2c8e97501610bd3f73da66fc"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\post-update.sample",
+                    "md5": "2b7ea5cee3c49ff53d41e00785eb974c"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-applypatch.sample",
+                    "md5": "054f9ffb8bfe04a599751cc757226dda"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-commit.sample",
+                    "md5": "5029bfab85b1c39281aa9697379ea444"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-merge-commit.sample",
+                    "md5": "39cb268e2a85d436b9eb6f47614c3cbc"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-push.sample",
+                    "md5": "2c642152299a94e05ea26eae11993b13"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-rebase.sample",
+                    "md5": "56e45f2bcbc8226d2b4200f7c46371bf"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\pre-receive.sample",
+                    "md5": "2ad18ec82c20af7b5926ed9cea6aeedd"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\prepare-commit-msg.sample",
+                    "md5": "2b5c047bdb474555e1787db32b2d2fc5"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\push-to-checkout.sample",
+                    "md5": "c7ab00c7784efeadad3ae9b228d4b4db"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\sendemail-validate.sample",
+                    "md5": "4d67df3a8d5c98cb8565c07e42be0b04"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\hooks\\update.sample",
+                    "md5": "647ae13c682f7827c22f5fc08a03674e"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\index",
+                    "md5": "d577d154a220b5a1073772a90ac69664"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\info\\exclude",
+                    "md5": "036208b4a1ab4a235d75c181e685e5a3"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\logs\\HEAD",
+                    "md5": "f32093104f2a217ca9edd71365671b18"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\logs\\refs\\heads\\main",
+                    "md5": "f32093104f2a217ca9edd71365671b18"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\logs\\refs\\remotes\\origin\\HEAD",
+                    "md5": "992d2d204e84e7d2fd3f196754edd9c6"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\logs\\refs\\remotes\\origin\\main",
+                    "md5": "8667237924e55dfe0f7229d05843da7c"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\objects\\16\\08989a8ea4f5d3e9e68604a05c539a443815db",
+                    "md5": "f1949f1aecee0cedd5520fd78e582b73"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\objects\\55\\ad641cefffad688232c204bd8a2c929c5627f3",
+                    "md5": "beb256aeac67ee84811520338681096d"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\objects\\c4\\367be6966767cb14cdca3fd5ef77cedb421abd",
+                    "md5": "d40d9f5fc77e1bf11d9b4842fbf7db6d"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\refs\\heads\\main",
+                    "md5": "e6bf846571778abd80f4c8dcf4a02f51"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\refs\\remotes\\origin\\HEAD",
+                    "md5": "98b16e0b650190870f1b40bc8f4aec4e"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\.git\\refs\\remotes\\origin\\main",
+                    "md5": "e6bf846571778abd80f4c8dcf4a02f51"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\BiAmpIPInterface.py",
+                    "md5": "3b54cee93861c3e417cf171673699243"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\program.json",
+                    "md5": "adf989b6e9f7d6e3251b7d19c2a2ebca"
+                },
+                {
+                    "path": "c:\\Users\\rjk0031\\OneDrive - Auburn University\\Desktop\\Muse-BiAmp-IP-Interface\\README.md",
+                    "md5": "e54d64c9a5fda75f26e65c9d6ad197be"
+                }
+            ]
+        }
+    ]
+}
