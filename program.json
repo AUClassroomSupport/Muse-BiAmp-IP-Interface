@@ -1,10 +1,30 @@
 {
-  "id": "Muse-BiAmp-IP-Interface",
-  "name": "Muse-BiAmp-IP-Interface",
-  "description": "description",
-  "disabled": false,
-  "provider": "python",
-  "scope": "",
-  "script": "BiAmpIPInterface.py",
-  "envvars": {}
+  "$schema": "https://developer.amx.com/schema/amx-mojo-program-1.0.json",
+  ".metadata" : {
+    "id": "Muse-BiAmp-IP-Interface",
+    "name": "Muse-BiAmp-IP-Interface",
+    "description": "description",
+    "disabled": false,
+    "provider": "python",
+    "scope": "",
+    "script": "BiAmpIPInterface.py",
+    "envvars": {}
+  },
+  "noArgument":{
+    ".kind": "command",
+    ".metadata": {
+      "method":"noArgument"
+    }
+  }, 
+  "sendCommand":{
+    ".kind": "command",
+    ".arguments": {
+      "command":{
+        ".type": "string"
+      }
+    },
+    ".metadata": {
+      "method":"sendCommand"
+    }
+  }
 }
